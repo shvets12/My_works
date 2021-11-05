@@ -1,0 +1,11 @@
+span{
+    color: crimson;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 150%;
+}
+td{
+   border-left: 4px solid blue;
+   padding:30px; 
+}

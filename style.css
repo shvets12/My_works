@@ -1,0 +1,15 @@
+span{
+    color: crimson;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 150%;
+    background-color: lemonchiffon;
+}
+td{
+   border-left: 4px solid blue;
+   padding:30px; 
+}
+td:hover{
+    border-left:4px solid greenyellow;
+}

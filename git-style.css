@@ -9,3 +9,6 @@ td{
    border-left: 4px solid blue;
    padding:30px; 
 }
+td:hover{
+    border-left:4px solid greenyellow;
+}
